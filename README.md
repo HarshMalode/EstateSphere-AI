@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
 </p>
 
-## 🏘️ Smart Real Estate Discovery & Management Platform
+<h1 align = "center"> Smart Real Estate Discovery & Management Platform </h1>
 
 A complete real estate management platform that enables administrators, builders, and users to manage property listings, discover properties, communicate through an AI-powered chatbot, and streamline the buying and selling experience using a single web application.
 
@@ -21,8 +21,6 @@ A complete real estate management platform that enables administrators, builders
 ---
 
 # 📸 Dashboard Preview
-
-**Home**
 
 <p align="center">
   <img src="screenshots/home.png" alt="EstateSphere AI System Architecture" width="100%">
@@ -288,7 +286,7 @@ This project is licensed under the **MIT License**.
 
 # 📬 Contact
 
-### 👨‍💻 Developed by - **Harsh Malode**
+### 👨‍💻 Developed by - **Harshwardhan Malode**
 
 📧 Email: harshwardhanmalode798@gmail.com
 
