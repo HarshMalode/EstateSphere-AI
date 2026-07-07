@@ -53,14 +53,6 @@ The platform enhances property discovery with smart search, efficient management
 
 ---
 
-# 🏛️ System Architecture
-
-<p align="center">
-  <img src="screenshots/architecture.png" alt="EstateSphere AI System Architecture" width="100%">
-</p>
-
----
-
 # ✨ Features
 
 ## 👤 User Module
